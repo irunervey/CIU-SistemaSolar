@@ -23,6 +23,6 @@ Para crear el gif que muestro a continuación utilize la herramienta de gif-anim
 
 ### Resultado.
 
-![](https://github.com/irunervey/SistemaSolar/Practica3/Data/animation.gif)
+![](https://github.com/irunervey/CIU-SistemaSolar/blob/master/Practica3/Data/animation.gif)
 
 Por Iru Nervey Navarro Alejo.
